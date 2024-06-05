@@ -9,4 +9,4 @@ I found a self hosted browser based markdown note taking app that I wanted to st
 ---
 
 ## [Endpoint Central Lab - Link](https://github.com/Dzzs/EPC-Lab)
-I was tasked with setting up a separate lab enviorment for the team to learn more about Endpoint Central separate from production. This is the basic outline for that setup.
+I was tasked with documenting setting up a separate lab enviorment for the team to learn more about Endpoint Central separate from production. This is the basic outline for that setup.
