@@ -1,5 +1,4 @@
 
 ## Markdown Notes / PKM
-I found a self hosted browser based markdown note taking app that I wanted to start using and have access to from anywhere without exposing extra ports on my network.
-
-[Link to README](https://github.com/Dzzs/Projects/blob/main/Markdown%20Notes.md)
+I found a self hosted browser based markdown note taking app that I wanted to start using and have access to from anywhere without exposing extra ports on my network.   
+[Markdown Notes](https://github.com/Dzzs/Projects/blob/main/Markdown%20Notes.md)
