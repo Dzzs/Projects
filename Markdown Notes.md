@@ -1,6 +1,6 @@
 # Introduction
 
-This document outlines my setup of an open source [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) / note taking tool called [Silverbullet](https://github.com/silverbulletmd/silverbullet). In a secure and highly available manner. My ISP blocks 80/443/445 traffic so this gets around those limitations as well. Parts of this document are intentionally kept vague for security. Some configuration will require temporarily opening up security restrictions.
+This document outlines my setup of an open source [Personal Knowledge Management](https://en.wikipedia.org/wiki/Personal_knowledge_management) / note taking tool called [Silverbullet](https://github.com/silverbulletmd/silverbullet). In a secure and highly available manner. Parts of this document are intentionally kept vague for security. Some configuration will require temporarily opening up security restrictions.
 
 I am not associated with and have not yet contributed to [Silverbullet](https://github.com/silverbulletmd/silverbullet).
 
@@ -65,7 +65,7 @@ I am not associated with and have not yet contributed to [Silverbullet](https://
 
 ## Result / Bonus 
 - Since [Silverbullet](https://github.com/silverbulletmd/silverbullet) is Markdown based you can also use other popular PKMs such as [Obsidian](https://obsidian.md/) or any other Markdown application. 
-- As noted in the introduction, this setup also gets around the issue of some ISPs blocking web and other traffic on residential connections. It does this via the use of the reverse proxy passing to your IP on an allowed port.
+- This setup also gets around the issue of some ISPs blocking web and other traffic on residential connections. It does this via the use of the reverse proxy passing to your IP on an allowed port.
 - **Potential use case:** Obsidian is great but requires a client and paid service for syncing. This setup allows you to use Obsidian where you have it installed and sync without the paid service. Then your notes are accessible from any browser as well not requiring any client. Note your access restrictions here.
 
 ## Notes
