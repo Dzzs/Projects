@@ -1,5 +1,5 @@
 # Introduction
-This is a central reposity for documetation around some of my home lab projects.
+This is a central reposity for documetation around some of my home lab and related projects.
 
 ---
 
@@ -15,3 +15,8 @@ I was tasked with documenting setting up a separate lab enviorment for the team 
 
 ## [Proxmox High Availability Cluster - Link](https://github.com/Dzzs/Projects/blob/main/Proxmox%20HA%20Cluster.md)
 Physical / VM level high avaialbility for workloads where other HA options are not ideal.
+
+---
+
+## [Cisco Switch Web Configuration - Link](https://github.com/Dzzs/3850WebConfig)
+An easy to use web interface for configuring Cisco switches without needing to use the CLI written in Python.
