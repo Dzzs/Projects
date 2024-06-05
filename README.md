@@ -19,4 +19,4 @@ Physical / VM level high avaialbility for workloads where other HA options are n
 ---
 
 ## [Cisco Switch Web Configuration - Link](https://github.com/Dzzs/3850WebConfig)
-A Python based easy to use web interface for configuring Cisco switches without needing to use the CLI.
+Python based easy to use web interface for configuring Cisco switches without needing to use the CLI.
