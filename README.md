@@ -4,7 +4,7 @@ This is a central reposity for documetation around some of my home lab and relat
 ---
 
 ## [Markdown Notes / PKM - Link](https://github.com/Dzzs/Projects/blob/main/Markdown%20Notes.md)
-Self hosted browser based markdown note taking app that I wanted to start using and have access to my PKM notes from anywhere.
+Self hosted browser based markdown note taking app that I wanted to start using and have access to my PKM notes from anywhere. Diagram included in link.
 
 ---
 
