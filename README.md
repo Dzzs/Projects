@@ -21,5 +21,5 @@ This is a central reposity for documetation around some of my home lab and relat
 ---
 
 ## [Cisco Switch Web Configuration - Link](https://github.com/Dzzs/3850WebConfig)
-- Python based easy to use web interface for configuring Cisco switches without needing to use the CLI.
+- Easy to use Python based web interface for configuring Cisco switches without needing to access the CLI.
 - Features basic check to avoid accidentally disrupting connectivity with router.
