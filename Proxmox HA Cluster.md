@@ -34,4 +34,4 @@ This document outlines enabling basic a High Availability cluster and creating a
 
 - Your VM is now configured for High Availability. In the event that the node running the VM experiences downtime or loses connection, the cluster will automatically migrate the VM to the next available node in the group, based on the specified priority.
 
-- Keep in mind the specific requirements and characteristics of your workload to ensure it is suitable for this type High Availability.
+- Keep in mind the specific requirements and characteristics of your workload to ensure it is suitable for this type of High Availability.
