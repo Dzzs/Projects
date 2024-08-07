@@ -1,6 +1,6 @@
 # Manually Install Endpoint Central Remote Agent
 
-  Ensure you have PsExec and EndPoint folder available.
+  Ensure you have PsExec and EndPoint agent folder available.
 
 1. Get the local IP address of the machine. 
 
