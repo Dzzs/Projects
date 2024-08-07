@@ -16,7 +16,7 @@ This is a central reposity for documetation around some of my home lab and relat
 
 ---
 
-## [EPC Remote Agent - Link](https://github.com/Dzzs/Projects/blob/main/EPC%20Remote%20Agent.md)
+## [Endpoint Central Remote Agent - Link](https://github.com/Dzzs/Projects/blob/main/EPC%20Remote%20Agent.md)
 - Manually install Endpoint Central on remote machines when other automatic install methods fail.
 
 ---
