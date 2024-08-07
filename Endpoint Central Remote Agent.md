@@ -34,7 +34,7 @@
 
 	- You will be mapped to the C drive of the remote machine. Open or create Temp folder on the C drive.
 
-	- Copy the Endpoint folder from your computer C:\Remoting into the machine's Temp folder.
+	- Copy the Endpoint folder from your computer into the machine's Temp folder.
 
 Note: Do not try to skip ahead or interact with the command prompt while the file is transferring. PsExec uses the same protocol as the file transfer so it will be very slow, if it works at all, until the transfer is complete.
 
