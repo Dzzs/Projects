@@ -74,4 +74,5 @@ I am not associated with and have not yet contributed to [Silverbullet](https://
 - You could run a single instance and be completely fine. I have not yet seen Silverbullet break without me directly causing it.
 
 ## Diagram
-![SilverBulletDiagram](https://github.com/Dzzs/Markdown-Notes/assets/11656216/43a8949f-7b08-4b14-88c4-e053ae8a2c6a)
+![SilverBulletDiagram](https://github.com/user-attachments/assets/8192143e-9bb2-40cb-8185-757f83dc049e)
+
