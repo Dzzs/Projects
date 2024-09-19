@@ -116,3 +116,10 @@
 - TV shows - Sonarr
 - Movies - Radarr
 - Indexers - Prowlarr
+
+## Temperature Management
+
+- Window AC
+- Designed and 3D printed shrouds with fans to capture exhaust heat from equipment
+- Designed and 3D printed duct manifold to combine ducts at window exhaust point
+- Ducts carry heat from shrouds to window manifold
