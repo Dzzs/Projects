@@ -108,5 +108,5 @@
 
 - Window AC
 - Designed and 3D printed shrouds with fans to capture exhaust heat from equipment
-- Designed and 3D printed duct manifold to combine ducts at window exhaust point
+- Designed and 3D printed duct manifold with powerful exhaust fan to exhaust heat out of the window
 - Ducts carry heat from shrouds to window manifold
