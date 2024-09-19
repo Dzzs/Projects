@@ -65,15 +65,17 @@
 
 ## Monitoring / Security
 
-- Zabbix
-  - Systems usage and health dashboard
-  - Automated issue remediation restarting services
-  - Notifications of issues and resolution status
+### Zabbix
+
+- Systems usage and health dashboard
+- Automated issue remediation restarting services
+- Notifications of issues and resolution status
     
-- Security Onion
-  - Monitoring all network traffic real time
-  - Agents on systems collecting and monitoring logs
-  - Log receiving endpoint for log collection without agent
+### Security Onion
+
+- Monitoring all network traffic real time
+- Agents on systems collecting and monitoring logs
+- Log receiving endpoint for log collection without agent
 
 ## Docker
 
