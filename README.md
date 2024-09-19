@@ -3,6 +3,12 @@ This is a central reposity for documetation around some of my home lab and relat
 
 ---
 
+## [Home Lab Setup](https://github.com/Dzzs/Projects/blob/main/Home%20Lab.md)
+- Up to date rough overview of my Home Lab.
+- 42u server cabinet.
+  
+---
+
 ## [Markdown Notes / PKM - Link](https://github.com/Dzzs/Projects/blob/main/Markdown%20Notes.md)
 - Self hosted browser based markdown note taking app to access my PKM notes from anywhere. Diagram included in link.
 - Includes: Hybrid / multi-cloud, End to end encryption, live file syncing, Load Balancing.
