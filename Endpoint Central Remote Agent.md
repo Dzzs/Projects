@@ -1,3 +1,7 @@
+# Automated Script Install
+ [Stage 1 - Copy Files](https://github.com/Dzzs/Projects/blob/main/EPCFIX.bat)
+ [Stage 2 - Uninstall / Install](https://github.com/Dzzs/Projects/blob/main/Script.bat)
+
 # Manually Install Endpoint Central Remote Agent
 
   Ensure you have PsExec and EndPoint agent folder available.
