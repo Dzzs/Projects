@@ -1,8 +1,8 @@
 # Automated Script Install
  
- [Stage 1 Copy Files - Link](https://github.com/Dzzs/Projects/blob/main/EPCFIX.bat)
+ ### [Stage 1 Copy Files - Link](https://github.com/Dzzs/Projects/blob/main/EPCFIX.bat)
  
- [Stage 2 Uninstall / Install - Link](https://github.com/Dzzs/Projects/blob/main/Script.bat)
+ ### [Stage 2 Uninstall / Install - Link](https://github.com/Dzzs/Projects/blob/main/Script.bat)
 
 # Manually Install Endpoint Central Remote Agent
 
