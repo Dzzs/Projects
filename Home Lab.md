@@ -78,8 +78,8 @@
     
 ### Security Onion
 
-- Monitoring all network traffic real time
-- Agents on systems collecting and monitoring logs
+- Monitoring all network traffic in real time
+- Agents on systems collecting logs for real time monitoring
 - Log receiving endpoint for log collection without agent
 
 ## Docker
