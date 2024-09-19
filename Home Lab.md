@@ -58,7 +58,10 @@
 
 ### Virtual Machine Opperating Systems
 
-- Ubuntu Server 18-24 LTS
+- Ubuntu Server 18.04 LTS
+- Ubuntu Server 20.04 LTS
+- Ubuntu Server 22.04 LTS
+- Ubuntu Server 24.04 LTS
 - Debian 12 Server
 - Kali Linux
 - Windows Server 2022 - Domain Controller
