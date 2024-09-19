@@ -20,6 +20,8 @@
 
 - “MacBook M3” - M3 Apple Silicon, 16GB RAM, WiFi, 500GB Storage
 
+- "My-PC" - Intel 10900k, 32GB RAM, 2.5TB SSD Storage, RTX 3080 GPU
+
 ## Networking
 
 ### Switching
