@@ -3,7 +3,7 @@ echo.
 echo [93m==================================================[0m
 echo [94m*[0m[92m*[0m[31m*[0m                                           [31m*[0m[92m*[0m[94m*[0m
 echo    Endpoint Central Agent Install Script
-echo        Created by [96mDamion Rosenbaum[0m      
+echo        Created by [96mNAME[0m      
 echo [94m*[0m[92m*[0m[31m*[0m                                           [31m*[0m[92m*[0m[94m*[0m
 echo [93m==================================================[0m
 echo.
