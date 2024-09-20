@@ -4,7 +4,7 @@ This is a central reposity for documetation around some of my home lab and relat
 ---
 
 ## [Home Lab Setup](https://github.com/Dzzs/Projects/blob/main/Home%20Lab.md)
-- Up to date rough overview of my Home Lab.
+- Rough overview of my Home Lab hardware and Docker services.
 - 42u server cabinet.
   
 ---
