@@ -2,16 +2,18 @@
 
 ### Machines
 
-- “Tower” -  Intel 5820k, 32GB RAM, 2.5G NIC, 1GB NIC x4, 19TB Storage
-- “Monolith” - Intel 13700k, 128GB RAM, 2.5G NIC, 3TB M.2 Storage, 3060TI GPU
-- “Blade” - Intel Xeon 2667V3 x2, 96GB RAM, 1G NIC x4, IPMI, 2TB Storage
-- “Cube” - Synology NAS 12TB x4, 1 drive parity
-- “Pi4” - Raspberry Pi 4 4GB, 32GB Storage
-- “Pi4b” - Raspberry Pi 4 4GB, 32GB Storage
-- “Pi5” - Raspberry Pi 5 8GB, 1TB NVME SSD Hat storage
-- “Razer Laptop” - Intel 1065G7, 16GB RAM, 1650TI GPU, 500GB Storage, WiFI, 2.5G USB NIC
-- “MacBook M3” - M3 Apple Silicon, 16GB RAM, WiFi, 500GB Storage
-- "My-PC" - Intel 10900k, 32GB RAM, 2.5TB SSD Storage, RTX 3080 GPU
+| Name         | CPU                  | RAM   | Networking     | Storage                  | GPU      |
+| ------------ | -------------------- | ----- | -------------- | ------------------------ | -------- |
+| Tower        | Intel 5820k          | 32GB  | 2.5G, 1G x4    | 19TB Mixed               | N/A      |
+| Monolith     | Intel 13700k         | 128GB | 2.5G           | 3TB                      | 3060TI   |
+| Blade        | Intel Xeon 2667V3 x2 | 96GB  | 1G x4, IPMI    | 2TB                      | N/A      |
+| Cube         | AMD Ryzen R6100      | 8GB   | 10G            | 12TB x4 (1 drive parity) | N/A      |
+| Pi4          | Raspberry Pi 4       | 4GB   | 1G             | 32GB                     | N/A      |
+| Pi4b         | Raspberry Pi 4       | 4GB   | 1G             | 32GB                     | N/A      |
+| Pi5          | Raspberry Pi 5       | 8GB   | 1G             | 32GB, 1TB NVME Hat       | N/A      |
+| Razer Laptop | Intel 1065G7         | 16GB  | WiFi, 2.5G USB | 500GB                    | 1650TI   |
+| MacBook M3   | M3 Apple Silicon     | 16GB  | WiFi           | 500GB                    | N/A      |
+| My-PC        | Intel 10900k         | 32GB  | 2.5G x2        | 2.5TB SSD                | RTX 3080 |
 
 ## Networking
 
