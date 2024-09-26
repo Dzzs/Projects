@@ -45,7 +45,7 @@
 - Synology DSM
 - UnRaid
 
-### Virtual Machine Opperating Systems
+### Virtual Machine Operating Systems
 
 - Ubuntu Server 18.04 LTS
 - Ubuntu Server 20.04 LTS
