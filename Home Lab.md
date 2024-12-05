@@ -24,8 +24,9 @@
 
 ### Routing
 
-- Netgear R7000 with 3rd party firmware for full control
-- Router handles DHCP and tertiary DNS
+- Unifi Dream Machine Special Edition
+- ~~Netgear R7000 with 3rd party firmware for full control~~
+- UDM SE handles DHCP and tertiary DNS
 - Pi4 and Pi4b handle primary and secondary DNS
 - ISP Modem put in bridge mode with all features disabled
 
@@ -53,7 +54,7 @@
 - Ubuntu Server 24.04 LTS
 - Debian 12 Server
 - Kali Linux
-- Windows Server 2022 - Domain Controller
+- Windows Server 2022
 - Windows 10
 - Windows 11
 
@@ -70,41 +71,6 @@
 - Monitoring all network traffic in real time
 - Agents on systems collecting logs for real time monitoring
 - Log receiving endpoint for log collection without agent
-
-## Docker
-
-### Containers
-
-- Management - Portainer
-- Switch Management - 3850WebConfig
-- Youtube Frontend - Invidious
-- Notes app - Silverbullet
-- Recipe book - Mealie
-- Self hosted LLM - OpenAI
-- Ansible GUI - Semaphore
-- 3D Model Viewer - Manyfold3D
-- Monitor Websites - ChangeDetection
-- Live transcoding - Go2RTC
-- Camera to RSTP - Wyze-bridge
-- Homepage - Homarr
-- “Aridrop” between any devices - Pairdrop
-- DNS / Ad blocking - PiHole x2 
-- PDF Tool - Stirling PDF
-- VDI - Kasm
-- Secondary Notes - Obsidian VNC
-- “Live” TV from Plex library - Disquetv
-- NVR - Viserson
-- File Syncing - Syncthing
-- Drawing app - Excalidraw
-- Spotify Stats - Your Spotify 
-- Quick reading - Leto
-- Distributed Transcoding - Tdarr
-- Streaming - Plex
-- Media requester - Overseer
-- Request from watchlist - Watchlistarr
-- TV shows - Sonarr
-- Movies - Radarr
-- Indexers - Prowlarr
 
 ## Temperature Management
 
