@@ -14,6 +14,11 @@ This is a central reposity for documetation around some of my home lab and relat
   
 ---
 
+## [Secure Sandbox / VDI - Link](https://github.com/Dzzs/Projects/blob/main/Secure%20Sandbox.md)
+- My custom infrastructure secure sandbox.
+
+---
+
 ## [Markdown Notes / PKM - Link](https://github.com/Dzzs/Projects/blob/main/Markdown%20Notes.md)
 - Self hosted browser based markdown note taking app to access my PKM notes from anywhere. Diagram included in link.
 - Includes: Hybrid / multi-cloud, End to end encryption, live file syncing, Load Balancing.
