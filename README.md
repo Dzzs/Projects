@@ -1,5 +1,10 @@
 # Introduction
-This is a central reposity for documetation around some of my home lab and related projects.
+This is a central reposity for documetation around some of my home lab and related projects. 
+
+Beyond these projects I have over a decade obsessing over technology and teaching myself as many different aspects of technology as I can, as well as the following certifications.
+- CompTIA A+
+- CompTIA Security+
+- Azure Fundamentals (AZ900)
 
 ---
 
