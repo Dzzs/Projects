@@ -14,6 +14,11 @@ This is a central reposity for documetation around some of my home lab and relat
   
 ---
 
+## [Upgraded Notes / Knowledge Base App - Link](https://github.com/Dzzs/Projects/blob/main/Notes.md)
+- Note / knowledge base platform using the open source project Trilium notes. Diagram included in link.
+
+---
+
 ## [Secure Sandbox / VDI - Link](https://github.com/Dzzs/Projects/blob/main/Secure%20Sandbox.md)
 - My custom infrastructure secure sandbox. Diagram included in link.
 
