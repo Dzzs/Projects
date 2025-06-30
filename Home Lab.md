@@ -1,4 +1,4 @@
-# Hardware
+# On Premises Hardware
 
 ### Machines
 
@@ -79,3 +79,13 @@
 - Designed and 3D printed shrouds with fans to capture exhaust heat from equipment
 - Designed and 3D printed duct manifold with powerful exhaust fan to exhaust heat out of the window
 - Ducts carry heat from shrouds to window manifold
+
+---
+
+# Cloud Infrastructure
+
+- Multiple Ubuntu Server VMs across Azure and AWS.
+- Azure blob storage.
+- AWS S3 buckets.
+- Vercel for hosting some dev projects.
+- Supabase DB for dev projects.
