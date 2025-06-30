@@ -42,7 +42,7 @@ Beyond these projects I have over a decade obsessing over technology teaching my
 ---
 
 ## [Endpoint Central Remote Agent - Link](https://github.com/Dzzs/Projects/blob/main/Endpoint%20Central%20Remote%20Agent.md)
-- Manually install Endpoint Central on remote machines when other automatic install methods fail.
+- Install Endpoint Central on remote machines when other install methods fail.
 
 ---
 
