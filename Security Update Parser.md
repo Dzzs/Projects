@@ -1,6 +1,6 @@
 # Security Update Parser
 
-This document outlines my update parser written in TypeScript using Node.js runtime. The app scrapes live release note pages, then uses AI to parse the results and highlight any security related updates since the currently installed version. The results are then posted to a webpage in an easy to read table.
+This document outlines my update parser. Originally prototyped with Python, then rewritten in TypeScript using Node.js runtime. The app scrapes live release note pages, then uses AI to parse the results and highlight any security related updates since the currently installed version. The results are then posted to a webpage in an easy to read table.
 
 The system is designed to provide a clear and concise overview of software updates, with a particular focus on security enhancements. Below is a quick bullet list of features, followed by an example screenshot.
 
