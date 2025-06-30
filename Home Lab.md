@@ -84,7 +84,8 @@
 
 # Cloud Infrastructure
 
-- Multiple Ubuntu Server VMs across Azure and AWS.
+- Multiple Ubuntu Server VMs across Azure, AWS, GCP.
+- Multiple reverse proxies for obscuring servers and bypassing ISP restrictions.
 - Azure blob storage.
 - AWS S3 buckets.
 - Vercel for hosting some dev projects.
