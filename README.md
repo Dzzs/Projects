@@ -4,8 +4,13 @@ This is a central reposity for documetation around some of my home lab and relat
 ---
 
 ## [Home Lab Setup](https://github.com/Dzzs/Projects/blob/main/Home%20Lab.md)
-- Rough overview of my Home Lab hardware and Docker services.
+- Rough overview of my Home Lab hardware.
 - 42u server cabinet.
+
+---
+
+## [Security Update Parser - Link](https://github.com/Dzzs/Projects/blob/main/Security%20Update%20Parser.md)
+- TypeScript app for parsing messy release note pages to find security related updates.
   
 ---
 
